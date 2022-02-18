@@ -1,0 +1,5 @@
+*.pyc
+/customer/.idea
+/customer/customer/__pycache__
+/customer/customer_api/__pycache__
+*.sqlite3
